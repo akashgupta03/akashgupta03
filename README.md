@@ -34,7 +34,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
 <code><a href="https://redis.io" target="_blank"> </a><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 
 
